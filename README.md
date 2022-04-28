@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Divananda Zikry Fadilla
+![](https://komarev.com/ghpvc/?username=ivandzf)
 
-<!--
-**ivandzf/ivandzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divananda-zikry-fadilla/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ivandzf)
+[![Medium Badge](https://img.shields.io/badge/Discord-5864f5?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/760481748214612049)
 
-Here are some ideas to get you started:
+* 🖥️ Currently working as  aengineering manager at Ruangguru <img src="">
+* 😄 Pronouns: He/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
