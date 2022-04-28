@@ -1,11 +1,21 @@
 # Hi, I'm Divananda Zikry Fadilla
-![](https://komarev.com/ghpvc/?username=ivandzf)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divananda-zikry-fadilla/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ivandzf)
-[![Medium Badge](https://img.shields.io/badge/Discord-5864f5?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/760481748214612049)
+<div id="ghibli" align="center">
+</div>
 
-* 🖥️ Currently working as  aengineering manager at Ruangguru <img src="">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/divananda-zikry-fadilla/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/ivandzf">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/760481748214612049">
+    <img src="https://img.shields.io/badge/-Discord-5864f5?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
+
+* 🖥️ Currently working as a engineering manager at Ruangguru <a href="https://www.ruangguru.com/"><img src="https://www.pinclipart.com/picdir/big/565-5659810_ruang-guru-clipart.png" width="20" /></a>
 * 😄 Pronouns: He/him
 
 <p align="left">
