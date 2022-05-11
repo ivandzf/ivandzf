@@ -12,7 +12,7 @@
   </a>
 </div>
 
-* 🖥️ Currently working as a engineering manager at Ruangguru <a href="https://www.ruangguru.com/"><img src="https://www.pinclipart.com/picdir/big/565-5659810_ruang-guru-clipart.png" width="20" /></a>
+* 🖥️ Currently working as an Engineering Manager at Ruangguru <a href="https://www.ruangguru.com/"><img src="https://www.pinclipart.com/picdir/big/565-5659810_ruang-guru-clipart.png" width="20" /></a>
 * 😄 Pronouns: He/him
 * 📖 Currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) & [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) 
 
